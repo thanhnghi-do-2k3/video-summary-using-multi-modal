@@ -1,4 +1,5 @@
 [
+  "Why are the animations so messed up IN ANDROID.  when you try to use animation:slide_from_right ,the  elements in the screen gets unmounted or are removed before the screen animates finish ,But when you remove the screen option animation:slide_from_right ,the screen opens and closes abruptly ..this issue is yet to be resolved",
   "excellent teaching sir👍",
   "if the rnfes snippet is not showing up for you try installing the following exstension for VSC:\nES7+ React/Redux/React-Native snippets - publisher : dsznajder\n\nAdd the following if you want to add icons to your files in the explorer:\nvscode-icons - publisher : VSCode Icons Team",
   "Are you reading my mind???.....I literally just needed this.",
@@ -17,6 +18,5 @@
   "thank you just in time i'm learning react native",
   "Better off learning Android dev and kotlin multiplatform",
   "Christ, here we go. And why exactly is that? KMP is barely out of beta and is considerably harder for the average developer who just wants a simple mobile app. KMP requires you to have at minimum a functional understanding of the Android ecosystem and how Android approaches app development. As well as a reasonably good understanding Kotlin. Further to this, you'll also need to know SwiftUI for Apple devices since Compose Multi Platform is still in beta.\n\nReact Native, although far from perfect, is more than enough for 95% of people's use cases and for those who just want to use their current (web) knowledge to build a CRUD app that isn't a PWA. Expo also provides lots of nice packages for interacting with native features that just make it considerably easier for the average developer. It has been and continues to be used in production at massive corporations.\n\nNative development is pointless these days, unless you have a very specific need that cannot be provided by RN/Flutter or you have a team/a few other developers who can support both Android and iOS asynchronously. KMP is great, but it's far from mature and is much more complicated than using RN/Flutter, especially for the web folks.",
-  "les go 😂 😂",
-  "AppWrite has limition \nSo, If you has trouble with AppWrite using on web, you need to install with docker in your machine"
+  "les go 😂 😂"
 ]

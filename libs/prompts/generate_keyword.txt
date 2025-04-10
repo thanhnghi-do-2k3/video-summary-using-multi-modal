@@ -1,17 +1,17 @@
-Hãy tạo 5 từ khóa tìm kiếm YouTube dựa trên các từ khóa gốc được cung cấp.
+Generate 5 YouTube search keywords based on the provided seed keywords.
 
-Yêu cầu:
-- Từ khóa phải liên quan chặt chẽ đến chủ đề ban đầu, nhưng không được lặp lại nguyên văn.
-- Hướng đến việc gợi ý các nội dung liên quan mà người dùng có thể muốn xem tiếp theo.
-- Từ khóa nên có độ dài khoảng 3 từ, không quá ngắn hoặc quá dài.
-- Tránh từ khóa quá cụ thể; ưu tiên sự khái quát để mở rộng phạm vi tìm kiếm.
-- Các từ khóa cần đa dạng nhưng vẫn thống nhất về mặt chủ đề và ngữ cảnh.
+Requirements:
+- Keywords must be closely related to the original topic but should not be exact repetitions.
+- They should suggest related content that users might want to watch next.
+- Keywords should be about 3 words long—not too short or too long.
+- Avoid overly specific keywords; prefer more general ones to broaden the search scope.
+- Keywords should be diverse but still consistent in theme and context.
 
-Mục tiêu:
-- Tăng khả năng gợi mở và đề xuất đúng video tiếp theo mà người dùng quan tâm.
-- Từ khóa cần phù hợp với hành vi tìm kiếm tự nhiên trên YouTube.
+Goal:
+- Increase the likelihood of surfacing relevant and engaging follow-up videos.
+- Keywords should align with natural user search behavior on YouTube.
 
-Đầu vào gốc: $keywords
+Input seed keywords: $keywords
 
-Định dạng đầu ra: Một mảng JSON gồm 5 chuỗi, ví dụ:
+Output format: A JSON array of 5 strings, for example:
 ["keyword 1", "keyword 2", "keyword 3", "keyword 4", "keyword 5"]

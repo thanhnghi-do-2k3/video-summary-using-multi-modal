@@ -1,131 +1,5 @@
 [
   {
-    "id": "oq6dDMrBGsI",
-    "title": "Build a mobile React EXPO App - EASY Beginner Project",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=oq6dDMrBGsI",
-    "duration": 3608.0,
-    "view_count": 155,
-    "comment_file": "comments_oq6dDMrBGsI.json"
-  },
-  {
-    "id": "Q1xQuCpYIFE",
-    "title": "🔴 Build Movie App Using React Native | React Native Projects | Beginners",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=Q1xQuCpYIFE",
-    "duration": 5798.0,
-    "view_count": 167845,
-    "comment_file": "comments_Q1xQuCpYIFE.json"
-  },
-  {
-    "id": "pW2Pso4fw5g",
-    "title": "React Native Project | Build Full Stack React Native App with Expo, & Strapi | AI Recipe Generator",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=pW2Pso4fw5g",
-    "duration": 18257.0,
-    "view_count": 15079,
-    "comment_file": "comments_pW2Pso4fw5g.json"
-  },
-  {
-    "id": "TG6XSFeOT3g",
-    "title": "How I'd Learn Web Development (If I Could Start Over)",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=TG6XSFeOT3g",
-    "duration": 415.0,
-    "view_count": 895508,
-    "comment_file": "comments_TG6XSFeOT3g.json"
-  },
-  {
-    "id": "FXUt1p4LH2Q",
-    "title": "Master Mobile App Development with Flutter and React Native! 🚀📱 #android #ios #flutter #react",
-    "description": null,
-    "url": "https://www.youtube.com/shorts/FXUt1p4LH2Q",
-    "duration": 46.0,
-    "view_count": 587539,
-    "comment_file": "comments_FXUt1p4LH2Q.json"
-  },
-  {
-    "id": "E_0ETJ3RC9U",
-    "title": "Mobile App UI/UX Design Trends 2022 | App Ui Design",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=E_0ETJ3RC9U",
-    "duration": 139.0,
-    "view_count": 26274,
-    "comment_file": "comments_E_0ETJ3RC9U.json"
-  },
-  {
-    "id": "gvkqT_Uoahw",
-    "title": "React Native in 100 Seconds",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=gvkqT_Uoahw",
-    "duration": 137.0,
-    "view_count": 1119959,
-    "comment_file": "comments_gvkqT_Uoahw.json"
-  },
-  {
-    "id": "TT-ayTOGdqM",
-    "title": "🎲 React Native Advance Project  | Ludo Game | React Native Game App",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=TT-ayTOGdqM",
-    "duration": 15141.0,
-    "view_count": 5552,
-    "comment_file": "comments_TT-ayTOGdqM.json"
-  },
-  {
-    "id": "5-MLMzbUlPY",
-    "title": "Become a Full Stack Developer: A Roadmap for Beginners",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=5-MLMzbUlPY",
-    "duration": 895.0,
-    "view_count": 428949,
-    "comment_file": "comments_5-MLMzbUlPY.json"
-  },
-  {
-    "id": "O3BUHwfHf84",
-    "title": "MERN Stack Tutorial with Deployment – Beginner's Course",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=O3BUHwfHf84",
-    "duration": 8186.0,
-    "view_count": 379343,
-    "comment_file": "comments_O3BUHwfHf84.json"
-  },
-  {
-    "id": "nu_pCVPKzTk",
-    "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=nu_pCVPKzTk",
-    "duration": 26952.0,
-    "view_count": 2488121,
-    "comment_file": "comments_nu_pCVPKzTk.json"
-  },
-  {
-    "id": "ur_laJEQVjM",
-    "title": "Travel App UI UX Design Concept",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=ur_laJEQVjM",
-    "duration": 24.0,
-    "view_count": 12354,
-    "comment_file": "comments_ur_laJEQVjM.json"
-  },
-  {
-    "id": "dHzu-aDLIkI",
-    "title": "Mobile App Smart Watch Figma Design Tutorial | Mobile App Design UI UX with Prototype",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=dHzu-aDLIkI",
-    "duration": 911.0,
-    "view_count": 27633,
-    "comment_file": "comments_dHzu-aDLIkI.json"
-  },
-  {
-    "id": "953vyZMO4cM",
-    "title": "🔴 Build Weather App Using React Native | React Native Projects | Beginners",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=953vyZMO4cM",
-    "duration": 2524.0,
-    "view_count": 106903,
-    "comment_file": "comments_953vyZMO4cM.json"
-  },
-  {
     "id": "NwcxeJu0vAE",
     "title": "Design a Stunning Church Flyer on Your Phone | No PC Needed",
     "description": null,
@@ -135,13 +9,49 @@
     "comment_file": "comments_NwcxeJu0vAE.json"
   },
   {
-    "id": "gQgsx0ge5lw",
-    "title": "E-Commerce  Mobile App Figma UI Kit | UI UX Design Resources | Figma Design | ECommerce App Project",
+    "id": "XT-1_D4q6xA",
+    "title": "Submitting my app to the app store (pt 2) #reactnative #softwaredeveloper",
     "description": null,
-    "url": "https://www.youtube.com/shorts/gQgsx0ge5lw",
-    "duration": 9.0,
-    "view_count": 4667,
-    "comment_file": null
+    "url": "https://www.youtube.com/shorts/XT-1_D4q6xA",
+    "duration": 41.0,
+    "view_count": 865031,
+    "comment_file": "comments_XT-1_D4q6xA.json"
+  },
+  {
+    "id": "dPMk6_HTBq8",
+    "title": "How I'd Learn Full-Stack Web Development (If I Could Start Over)",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=dPMk6_HTBq8",
+    "duration": 628.0,
+    "view_count": 546184,
+    "comment_file": "comments_dPMk6_HTBq8.json"
+  },
+  {
+    "id": "cdnneQjsoT0",
+    "title": "🔴 Build Food Recipe App in React Native Reanimated | React Native Projects | Beginner | Tutorial",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=cdnneQjsoT0",
+    "duration": 4919.0,
+    "view_count": 105772,
+    "comment_file": "comments_cdnneQjsoT0.json"
+  },
+  {
+    "id": "bYIhwrHHo3w",
+    "title": "Fast Food App in React Native 🔥 #shorts #reactnative #expo #reactjs #app #ui",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/bYIhwrHHo3w",
+    "duration": 24.0,
+    "view_count": 1854624,
+    "comment_file": "comments_bYIhwrHHo3w.json"
+  },
+  {
+    "id": "CD7kaC8OALM",
+    "title": "React Native Fullstack Project - 2025 | Expo | Firebase | iOS & Android | React native for beginners",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=CD7kaC8OALM",
+    "duration": 26201.0,
+    "view_count": 3624,
+    "comment_file": "comments_CD7kaC8OALM.json"
   },
   {
     "id": "2Zcq6435CpE",
@@ -158,125 +68,17 @@
     "description": null,
     "url": "https://www.youtube.com/shorts/jnvgd3uaGZ4",
     "duration": 19.0,
-    "view_count": 353424,
+    "view_count": 353517,
     "comment_file": "comments_jnvgd3uaGZ4.json"
   },
   {
-    "id": "yxFCJu3keEo",
-    "title": "E-Commerce  Mobile App Figma UI Kit | UI UX Design Resources | Figma Design | ECommerce App Project",
+    "id": "09n__iJvTeY",
+    "title": "Complete 2025 Full-Stack Developer Roadmap | Noob ➜ Web Developer in 6 Months",
     "description": null,
-    "url": "https://www.youtube.com/shorts/yxFCJu3keEo",
-    "duration": 9.0,
-    "view_count": 1923,
-    "comment_file": null
-  },
-  {
-    "id": "ToLypwVgYmw",
-    "title": "Full-Stack or Web Development: Which should you learn?  #shorts #fullstack #webdevelopment",
-    "description": null,
-    "url": "https://www.youtube.com/shorts/ToLypwVgYmw",
-    "duration": 42.0,
-    "view_count": 160225,
-    "comment_file": "comments_ToLypwVgYmw.json"
-  },
-  {
-    "id": "_QeYvCtp50o",
-    "title": "E-Commerce App UI in React Native | React Native Projects",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=_QeYvCtp50o",
-    "duration": 271.0,
-    "view_count": 16947,
-    "comment_file": "comments__QeYvCtp50o.json"
-  },
-  {
-    "id": "cdnneQjsoT0",
-    "title": "🔴 Build Food Recipe App in React Native Reanimated | React Native Projects | Beginner | Tutorial",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=cdnneQjsoT0",
-    "duration": 4919.0,
-    "view_count": 105772,
-    "comment_file": "comments_cdnneQjsoT0.json"
-  },
-  {
-    "id": "nnG-DHWvTWM",
-    "title": "🎯 200-Day Full Stack Developer 🤩Roadmap 2025 [FULL GUIDE] I  #fullstack #webdevelopment #webdesign",
-    "description": null,
-    "url": "https://www.youtube.com/shorts/nnG-DHWvTWM",
-    "duration": 6.0,
-    "view_count": 120252,
-    "comment_file": "comments_nnG-DHWvTWM.json"
-  },
-  {
-    "id": "3dE1FGYnwO8",
-    "title": "Perfect UI Grid System for Mobile",
-    "description": null,
-    "url": "https://www.youtube.com/shorts/3dE1FGYnwO8",
-    "duration": 34.0,
-    "view_count": 174147,
-    "comment_file": "comments_3dE1FGYnwO8.json"
-  },
-  {
-    "id": "HbCBN8o3Xno",
-    "title": "Why React Native Is the Future and How to Master it in 2025",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=HbCBN8o3Xno",
-    "duration": 209.0,
-    "view_count": 14570,
-    "comment_file": "comments_HbCBN8o3Xno.json"
-  },
-  {
-    "id": "erEgovG9WBs",
-    "title": "100+ Web Development Things you Should Know",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=erEgovG9WBs",
-    "duration": 798.0,
-    "view_count": 1712663,
-    "comment_file": "comments_erEgovG9WBs.json"
-  },
-  {
-    "id": "dPMk6_HTBq8",
-    "title": "How I'd Learn Full-Stack Web Development (If I Could Start Over)",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=dPMk6_HTBq8",
-    "duration": 628.0,
-    "view_count": 546183,
-    "comment_file": "comments_dPMk6_HTBq8.json"
-  },
-  {
-    "id": "CzJQEstIiEI",
-    "title": "Build Your First Mobile Application | React Native Real Estate App",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=CzJQEstIiEI",
-    "duration": 11674.0,
-    "view_count": 1136968,
-    "comment_file": "comments_CzJQEstIiEI.json"
-  },
-  {
-    "id": "i2ag0yQONLQ",
-    "title": "Modern Dating App UI Design | Figma | iOS App Design",
-    "description": null,
-    "url": "https://www.youtube.com/shorts/i2ag0yQONLQ",
-    "duration": 10.0,
-    "view_count": 1966,
-    "comment_file": "comments_i2ag0yQONLQ.json"
-  },
-  {
-    "id": "MDZC8VDZnV8",
-    "title": "FREE Coding Bootcamp - Build 4 Full Stack Projects in 23 Hours",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=MDZC8VDZnV8",
-    "duration": 82331.0,
-    "view_count": 327926,
-    "comment_file": "comments_MDZC8VDZnV8.json"
-  },
-  {
-    "id": "PaQX0pktLnw",
-    "title": "Create Full Stack Grocery Delivery Website Using MERN Stack | Placement Project In React JS",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=PaQX0pktLnw",
-    "duration": 38236.0,
-    "view_count": 29398,
-    "comment_file": "comments_PaQX0pktLnw.json"
+    "url": "https://www.youtube.com/watch?v=09n__iJvTeY",
+    "duration": 1037.0,
+    "view_count": 102839,
+    "comment_file": "comments_09n__iJvTeY.json"
   },
   {
     "id": "vgEVfaDmfTk",
@@ -288,76 +90,40 @@
     "comment_file": "comments_vgEVfaDmfTk.json"
   },
   {
-    "id": "MoVO8eVe3gI",
-    "title": "Level up your UI design skills in 7 minutes! | EP1",
+    "id": "CzJQEstIiEI",
+    "title": "Build Your First Mobile Application | React Native Real Estate App",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=MoVO8eVe3gI",
-    "duration": 432.0,
-    "view_count": 266268,
-    "comment_file": "comments_MoVO8eVe3gI.json"
+    "url": "https://www.youtube.com/watch?v=CzJQEstIiEI",
+    "duration": 11674.0,
+    "view_count": 1137013,
+    "comment_file": "comments_CzJQEstIiEI.json"
   },
   {
-    "id": "9sV20cfnnCQ",
-    "title": "Software EXPERTS react to YOUR App Design",
+    "id": "XZOvgdvSOIY",
+    "title": "Python Full stack Development Telugu Tutorial for Beginners | Part - 1 | Brolly Academy",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=9sV20cfnnCQ",
-    "duration": 452.0,
-    "view_count": 328334,
-    "comment_file": "comments_9sV20cfnnCQ.json"
+    "url": "https://www.youtube.com/watch?v=XZOvgdvSOIY",
+    "duration": 1630.0,
+    "view_count": 256,
+    "comment_file": null
   },
   {
-    "id": "f8Z9JyB2EIE",
-    "title": "React Native Course for Beginners in 2025 | Build a Full Stack React Native App",
+    "id": "mJ3bGvy0WAY",
+    "title": "Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=f8Z9JyB2EIE",
-    "duration": 11179.0,
-    "view_count": 430338,
-    "comment_file": "comments_f8Z9JyB2EIE.json"
+    "url": "https://www.youtube.com/watch?v=mJ3bGvy0WAY",
+    "duration": 8143.0,
+    "view_count": 1503283,
+    "comment_file": "comments_mJ3bGvy0WAY.json"
   },
   {
-    "id": "Sxxw3qtb3_g",
-    "title": "How to OVER Engineer a Website // What is a Tech Stack?",
+    "id": "953vyZMO4cM",
+    "title": "🔴 Build Weather App Using React Native | React Native Projects | Beginners",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
-    "duration": 680.0,
-    "view_count": 2698157,
-    "comment_file": "comments_Sxxw3qtb3_g.json"
-  },
-  {
-    "id": "W1Co2M-gsQE",
-    "title": "📱 Build a Coffee Shop App using React Native ☕| Beginner | 2023",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=W1Co2M-gsQE",
-    "duration": 31533.0,
-    "view_count": 348754,
-    "comment_file": "comments_W1Co2M-gsQE.json"
-  },
-  {
-    "id": "o3IqOrXtxm8",
-    "title": "MERN Stack React Native Project: Build a Bookstore App With React Native and Node.js",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=o3IqOrXtxm8",
-    "duration": 19144.0,
-    "view_count": 32054,
-    "comment_file": "comments_o3IqOrXtxm8.json"
-  },
-  {
-    "id": "_gKawBrTrFM",
-    "title": "Python Full Stack Developer Roadmap 2025 | Step-by-Step Guide for Beginners |  Python | Full Stack",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=_gKawBrTrFM",
-    "duration": 921.0,
-    "view_count": 52,
-    "comment_file": "comments__gKawBrTrFM.json"
-  },
-  {
-    "id": "J2j1yk-34OY",
-    "title": "Complete React Native Tutorial #1 - Introduction & Setup (Expo)",
-    "description": null,
-    "url": "https://www.youtube.com/watch?v=J2j1yk-34OY",
-    "duration": 1244.0,
-    "view_count": 3821,
-    "comment_file": "comments_J2j1yk-34OY.json"
+    "url": "https://www.youtube.com/watch?v=953vyZMO4cM",
+    "duration": 2524.0,
+    "view_count": 106896,
+    "comment_file": "comments_953vyZMO4cM.json"
   },
   {
     "id": "sdb1sl9ql-c",
@@ -369,31 +135,40 @@
     "comment_file": "comments_sdb1sl9ql-c.json"
   },
   {
-    "id": "ToufUX45LnU",
-    "title": "Beauty and Cosmetic Product Shop Mobile App UIUX Design | Figma | App Design | Mobile Application UI",
+    "id": "nu_pCVPKzTk",
+    "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
     "description": null,
-    "url": "https://www.youtube.com/shorts/ToufUX45LnU",
-    "duration": 14.0,
-    "view_count": 415,
-    "comment_file": null
+    "url": "https://www.youtube.com/watch?v=nu_pCVPKzTk",
+    "duration": 26952.0,
+    "view_count": 2488141,
+    "comment_file": "comments_nu_pCVPKzTk.json"
   },
   {
-    "id": "WR1ydijTx5E",
-    "title": "How I Learned to Code in 4 Months & Got a Job! (No CS Degree, No Bootcamp)",
+    "id": "9sV20cfnnCQ",
+    "title": "Software EXPERTS react to YOUR App Design",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=WR1ydijTx5E",
-    "duration": 591.0,
-    "view_count": 7361421,
-    "comment_file": "comments_WR1ydijTx5E.json"
+    "url": "https://www.youtube.com/watch?v=9sV20cfnnCQ",
+    "duration": 452.0,
+    "view_count": 328334,
+    "comment_file": "comments_9sV20cfnnCQ.json"
   },
   {
-    "id": "aIy46jQsDLM",
-    "title": "Full Stack Developer in 6 Months",
+    "id": "MoVO8eVe3gI",
+    "title": "Level up your UI design skills in 7 minutes! | EP1",
     "description": null,
-    "url": "https://www.youtube.com/shorts/aIy46jQsDLM",
-    "duration": 18.0,
-    "view_count": 1219866,
-    "comment_file": "comments_aIy46jQsDLM.json"
+    "url": "https://www.youtube.com/watch?v=MoVO8eVe3gI",
+    "duration": 432.0,
+    "view_count": 266268,
+    "comment_file": "comments_MoVO8eVe3gI.json"
+  },
+  {
+    "id": "ZDRZvFNK-ek",
+    "title": "Full Stack JavaScript Developer Roadmap 2025",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=ZDRZvFNK-ek",
+    "duration": 2493.0,
+    "view_count": 84843,
+    "comment_file": "comments_ZDRZvFNK-ek.json"
   },
   {
     "id": "D-AlSxww4F4",
@@ -405,264 +180,453 @@
     "comment_file": null
   },
   {
-    "id": "zaohLflnIgA",
-    "title": "Top 6 JavaScript Libraries for your next projects",
+    "id": "oMBHBpXpgIw",
+    "title": "The truth about 10 years as a Full Stack Developer | is AI killing jobs in 2025? | Raghav’s Roadmap",
     "description": null,
-    "url": "https://www.youtube.com/shorts/zaohLflnIgA",
-    "duration": 21.0,
-    "view_count": 12603,
-    "comment_file": "comments_zaohLflnIgA.json"
+    "url": "https://www.youtube.com/watch?v=oMBHBpXpgIw",
+    "duration": 6310.0,
+    "view_count": 35941,
+    "comment_file": "comments_oMBHBpXpgIw.json"
   },
   {
-    "id": "Kch6K2AwSQE",
-    "title": "Top 5 UI libraries for react.js",
+    "id": "Hp9sTsiTZ_I",
+    "title": "React Native for Beginners tutorial",
     "description": null,
-    "url": "https://www.youtube.com/shorts/Kch6K2AwSQE",
-    "duration": 18.0,
-    "view_count": 1326,
+    "url": "https://www.youtube.com/watch?v=Hp9sTsiTZ_I",
+    "duration": 1365.0,
+    "view_count": 59230,
+    "comment_file": "comments_Hp9sTsiTZ_I.json"
+  },
+  {
+    "id": "o9bCZkzFH_8",
+    "title": "Flutter vs React Native under 60 seconds",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/o9bCZkzFH_8",
+    "duration": 58.0,
+    "view_count": 154032,
+    "comment_file": "comments_o9bCZkzFH_8.json"
+  },
+  {
+    "id": "azAX_oqtZMM",
+    "title": "FREE Apps for Architects! 🤩🏠  #animation architecture #architecturestudent  #sketchup",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/azAX_oqtZMM",
+    "duration": 8.0,
+    "view_count": 146660,
+    "comment_file": "comments_azAX_oqtZMM.json"
+  },
+  {
+    "id": "0-S5a0eXPoc",
+    "title": "React Native Tutorial for Beginners - Build a React Native App",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+    "duration": 7590.0,
+    "view_count": 3409002,
+    "comment_file": "comments_0-S5a0eXPoc.json"
+  },
+  {
+    "id": "_QeYvCtp50o",
+    "title": "E-Commerce App UI in React Native | React Native Projects",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=_QeYvCtp50o",
+    "duration": 271.0,
+    "view_count": 16947,
+    "comment_file": "comments__QeYvCtp50o.json"
+  },
+  {
+    "id": "3dE1FGYnwO8",
+    "title": "Perfect UI Grid System for Mobile",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/3dE1FGYnwO8",
+    "duration": 34.0,
+    "view_count": 174150,
+    "comment_file": "comments_3dE1FGYnwO8.json"
+  },
+  {
+    "id": "vFW_TxKLyrE",
+    "title": "Expo in 100 Seconds",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=vFW_TxKLyrE",
+    "duration": 159.0,
+    "view_count": 682605,
+    "comment_file": "comments_vFW_TxKLyrE.json"
+  },
+  {
+    "id": "dHzu-aDLIkI",
+    "title": "Mobile App Smart Watch Figma Design Tutorial | Mobile App Design UI UX with Prototype",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=dHzu-aDLIkI",
+    "duration": 911.0,
+    "view_count": 27633,
+    "comment_file": "comments_dHzu-aDLIkI.json"
+  },
+  {
+    "id": "yxFCJu3keEo",
+    "title": "E-Commerce  Mobile App Figma UI Kit | UI UX Design Resources | Figma Design | ECommerce App Project",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/yxFCJu3keEo",
+    "duration": 9.0,
+    "view_count": 1923,
     "comment_file": null
   },
   {
-    "id": "RPa3_AD1_Vs",
-    "title": "This UI component library is mind-blowing",
+    "id": "J2j1yk-34OY",
+    "title": "Complete React Native Tutorial #1 - Introduction & Setup (Expo)",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=RPa3_AD1_Vs",
-    "duration": 503.0,
-    "view_count": 782547,
-    "comment_file": "comments_RPa3_AD1_Vs.json"
+    "url": "https://www.youtube.com/watch?v=J2j1yk-34OY",
+    "duration": 1244.0,
+    "view_count": 3832,
+    "comment_file": "comments_J2j1yk-34OY.json"
   },
   {
-    "id": "2Q0mWH6g8Fo",
-    "title": "UI Libraries Are Dying, Here's Why",
+    "id": "sm5Y7Vtuihg",
+    "title": "React Native Full Course for Beginners",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=2Q0mWH6g8Fo",
-    "duration": 808.0,
-    "view_count": 332949,
-    "comment_file": "comments_2Q0mWH6g8Fo.json"
+    "url": "https://www.youtube.com/watch?v=sm5Y7Vtuihg",
+    "duration": 15833.0,
+    "view_count": 197790,
+    "comment_file": "comments_sm5Y7Vtuihg.json"
   },
   {
-    "id": "gdlTFPebzAU",
-    "title": "Storybook in 100 Seconds",
+    "id": "o3IqOrXtxm8",
+    "title": "MERN Stack React Native Project: Build a Bookstore App With React Native and Node.js",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=gdlTFPebzAU",
-    "duration": 139.0,
-    "view_count": 505459,
-    "comment_file": "comments_gdlTFPebzAU.json"
+    "url": "https://www.youtube.com/watch?v=o3IqOrXtxm8",
+    "duration": 19144.0,
+    "view_count": 32059,
+    "comment_file": "comments_o3IqOrXtxm8.json"
   },
   {
-    "id": "FvgqACEbTr0",
-    "title": "Best 6 React Component Libraries",
+    "id": "Q1xQuCpYIFE",
+    "title": "🔴 Build Movie App Using React Native | React Native Projects | Beginners",
     "description": null,
-    "url": "https://www.youtube.com/shorts/FvgqACEbTr0",
-    "duration": 20.0,
-    "view_count": 26703,
-    "comment_file": "comments_FvgqACEbTr0.json"
+    "url": "https://www.youtube.com/watch?v=Q1xQuCpYIFE",
+    "duration": 5798.0,
+    "view_count": 167845,
+    "comment_file": "comments_Q1xQuCpYIFE.json"
   },
   {
-    "id": "SJeBRW1QQMA",
-    "title": "I built a JavaScript framework",
+    "id": "5QzzeYHApV0",
+    "title": "How to become a full stack developer 🚀 | Web Development Explained | Error Makes Clever Academy",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=SJeBRW1QQMA",
-    "duration": 611.0,
-    "view_count": 513120,
-    "comment_file": "comments_SJeBRW1QQMA.json"
+    "url": "https://www.youtube.com/watch?v=5QzzeYHApV0",
+    "duration": 262.0,
+    "view_count": 461490,
+    "comment_file": "comments_5QzzeYHApV0.json"
   },
   {
-    "id": "LykYI6vTNzs",
-    "title": "3 JavaScript libraries to create modern animated websites.",
+    "id": "GxmfcnU3feo",
+    "title": "The Complete Web Development Roadmap",
     "description": null,
-    "url": "https://www.youtube.com/shorts/LykYI6vTNzs",
-    "duration": 22.0,
-    "view_count": 114637,
-    "comment_file": "comments_LykYI6vTNzs.json"
+    "url": "https://www.youtube.com/watch?v=GxmfcnU3feo",
+    "duration": 915.0,
+    "view_count": 456269,
+    "comment_file": "comments_GxmfcnU3feo.json"
   },
   {
-    "id": "X4yx-HfgmHA",
-    "title": "Laravel 12 + React Pagination UPGRADE 🚀 Add Rows Per Page Selector with Inertia js",
+    "id": "i2ag0yQONLQ",
+    "title": "Modern Dating App UI Design | Figma | iOS App Design",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=X4yx-HfgmHA",
-    "duration": 1729.0,
-    "view_count": 221,
-    "comment_file": "comments_X4yx-HfgmHA.json"
+    "url": "https://www.youtube.com/shorts/i2ag0yQONLQ",
+    "duration": 10.0,
+    "view_count": 1966,
+    "comment_file": "comments_i2ag0yQONLQ.json"
   },
   {
-    "id": "H6wI9oi7eBE",
-    "title": "What JavaScript framework you should learn 👩‍💻 #programming #technology #software #code #tech",
+    "id": "ur_laJEQVjM",
+    "title": "Travel App UI UX Design Concept",
     "description": null,
-    "url": "https://www.youtube.com/shorts/H6wI9oi7eBE",
-    "duration": 47.0,
-    "view_count": 183223,
-    "comment_file": "comments_H6wI9oi7eBE.json"
+    "url": "https://www.youtube.com/watch?v=ur_laJEQVjM",
+    "duration": 24.0,
+    "view_count": 12354,
+    "comment_file": "comments_ur_laJEQVjM.json"
   },
   {
-    "id": "wYpCWwD1oz0",
-    "title": "Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode",
+    "id": "wxxszUSs4Kk",
+    "title": "[FULL] Tự Học React Native Từ Số 0 - Lập Trình Android/iOS Dành Cho Người Mới Bắt Đầu",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=wYpCWwD1oz0",
-    "duration": 14665.0,
-    "view_count": 1737626,
-    "comment_file": "comments_wYpCWwD1oz0.json"
+    "url": "https://www.youtube.com/watch?v=wxxszUSs4Kk",
+    "duration": 30732.0,
+    "view_count": 43699,
+    "comment_file": "comments_wxxszUSs4Kk.json"
   },
   {
-    "id": "4ettB5JqDps",
-    "title": "React UI Libraries Compared: Which One Should You Choose in 2025?",
+    "id": "oq6dDMrBGsI",
+    "title": "Build a mobile React EXPO App - EASY Beginner Project",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=4ettB5JqDps",
-    "duration": 381.0,
-    "view_count": 8100,
-    "comment_file": "comments_4ettB5JqDps.json"
+    "url": "https://www.youtube.com/watch?v=oq6dDMrBGsI",
+    "duration": 3608.0,
+    "view_count": 155,
+    "comment_file": "comments_oq6dDMrBGsI.json"
   },
   {
-    "id": "4f-tAcsSv54",
-    "title": "Hero UI crash course with NEXT.JS | Tailwind CSS | React UI Framework | AKA NEXT UI",
+    "id": "aYSDYRXLQFY",
+    "title": "React vs. React Native: Key Differences",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=4f-tAcsSv54",
-    "duration": 2255.0,
-    "view_count": 22312,
-    "comment_file": "comments_4f-tAcsSv54.json"
+    "url": "https://www.youtube.com/shorts/aYSDYRXLQFY",
+    "duration": 31.0,
+    "view_count": 160369,
+    "comment_file": "comments_aYSDYRXLQFY.json"
   },
   {
-    "id": "2F_vV6fJ808",
-    "title": "Stop Using JavaScript UI Frameworks For Everything!",
+    "id": "FXUt1p4LH2Q",
+    "title": "Master Mobile App Development with Flutter and React Native! 🚀📱 #android #ios #flutter #react",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=2F_vV6fJ808",
-    "duration": 371.0,
-    "view_count": 11874,
-    "comment_file": "comments_2F_vV6fJ808.json"
+    "url": "https://www.youtube.com/shorts/FXUt1p4LH2Q",
+    "duration": 46.0,
+    "view_count": 587553,
+    "comment_file": "comments_FXUt1p4LH2Q.json"
   },
   {
-    "id": "cuHDQhDhvPE",
-    "title": "I built the same app 10 times // Which JS Framework is best?",
+    "id": "7NaeDBTRY1k",
+    "title": "Full Stack Development Explained",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=cuHDQhDhvPE",
-    "duration": 1318.0,
-    "view_count": 2696196,
-    "comment_file": "comments_cuHDQhDhvPE.json"
+    "url": "https://www.youtube.com/watch?v=7NaeDBTRY1k",
+    "duration": 292.0,
+    "view_count": 90709,
+    "comment_file": "comments_7NaeDBTRY1k.json"
   },
   {
-    "id": "3R2ffDlE-RM",
-    "title": "Did Apple accidentally reveal the best app development trend of 2025?",
+    "id": "f8Z9JyB2EIE",
+    "title": "React Native Course for Beginners in 2025 | Build a Full Stack React Native App",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=3R2ffDlE-RM",
-    "duration": 443.0,
-    "view_count": 6493,
-    "comment_file": "comments_3R2ffDlE-RM.json"
+    "url": "https://www.youtube.com/watch?v=f8Z9JyB2EIE",
+    "duration": 11179.0,
+    "view_count": 430410,
+    "comment_file": "comments_f8Z9JyB2EIE.json"
   },
   {
-    "id": "NQFiGtiDStg",
-    "title": "Integrate Apps Flyer | iOS | Flutter | 2025 | amplifyabhi",
+    "id": "Sxxw3qtb3_g",
+    "title": "How to OVER Engineer a Website // What is a Tech Stack?",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=NQFiGtiDStg",
-    "duration": 685.0,
-    "view_count": 122,
-    "comment_file": "comments_NQFiGtiDStg.json"
+    "url": "https://www.youtube.com/watch?v=Sxxw3qtb3_g",
+    "duration": 680.0,
+    "view_count": 2698168,
+    "comment_file": "comments_Sxxw3qtb3_g.json"
   },
   {
-    "id": "wPIWHXzvy_Y",
-    "title": "Building A Web App VS Building A Mobile App — Which One Is Better?",
+    "id": "TT-ayTOGdqM",
+    "title": "🎲 React Native Advance Project  | Ludo Game | React Native Game App",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=wPIWHXzvy_Y",
-    "duration": 492.0,
-    "view_count": 34036,
-    "comment_file": "comments_wPIWHXzvy_Y.json"
+    "url": "https://www.youtube.com/watch?v=TT-ayTOGdqM",
+    "duration": 15141.0,
+    "view_count": 5551,
+    "comment_file": "comments_TT-ayTOGdqM.json"
   },
   {
-    "id": "yye7rSsiV6k",
-    "title": "The Complete App Development Roadmap",
+    "id": "SF4K1kDmHwU",
+    "title": "React Native Tutorial | Build Full Stack React Native App with Expo | Beginner Course",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=yye7rSsiV6k",
-    "duration": 472.0,
-    "view_count": 679268,
-    "comment_file": "comments_yye7rSsiV6k.json"
+    "url": "https://www.youtube.com/watch?v=SF4K1kDmHwU",
+    "duration": 24066.0,
+    "view_count": 41744,
+    "comment_file": "comments_SF4K1kDmHwU.json"
   },
   {
-    "id": "Og287zzOTEM",
-    "title": "The Beginner to Industry-Ready Roadmap For Android & KMP Development In 2025",
+    "id": "5-MLMzbUlPY",
+    "title": "Become a Full Stack Developer: A Roadmap for Beginners",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=Og287zzOTEM",
-    "duration": 1180.0,
-    "view_count": 43544,
-    "comment_file": "comments_Og287zzOTEM.json"
+    "url": "https://www.youtube.com/watch?v=5-MLMzbUlPY",
+    "duration": 895.0,
+    "view_count": 428949,
+    "comment_file": "comments_5-MLMzbUlPY.json"
   },
   {
-    "id": "PgED0wsdbFc",
-    "title": "Ultimate Flutter Tutorial: Build a Travel Booking App",
+    "id": "d0GkjcBGVbc",
+    "title": "Full Stack Web Development Course 2025 | Complete Full Stack Developer Course | Intellipaat",
     "description": null,
-    "url": "https://www.youtube.com/shorts/PgED0wsdbFc",
-    "duration": 17.0,
-    "view_count": 127158,
-    "comment_file": "comments_PgED0wsdbFc.json"
+    "url": "https://www.youtube.com/watch?v=d0GkjcBGVbc",
+    "duration": 41619.0,
+    "view_count": 32726,
+    "comment_file": "comments_d0GkjcBGVbc.json"
   },
   {
-    "id": "EMWNZtCYg5s",
-    "title": "8 Rules For Learning to Code in 2025...and should you?",
+    "id": "ZBCUegTZF7M",
+    "title": "React Native Course for Beginners in 2024 | Build a Full Stack React Native App",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=EMWNZtCYg5s",
-    "duration": 779.0,
-    "view_count": 494071,
-    "comment_file": "comments_EMWNZtCYg5s.json"
+    "url": "https://www.youtube.com/watch?v=ZBCUegTZF7M",
+    "duration": 16111.0,
+    "view_count": 1282684,
+    "comment_file": "comments_ZBCUegTZF7M.json"
   },
   {
-    "id": "0FJNLzUr6eQ",
-    "title": "Mobile App Development Roadmap - 2025 | How to become Mobile App Developer (Complete Beginner Guide)",
+    "id": "gvkqT_Uoahw",
+    "title": "React Native in 100 Seconds",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=0FJNLzUr6eQ",
-    "duration": 755.0,
-    "view_count": 29265,
-    "comment_file": "comments_0FJNLzUr6eQ.json"
+    "url": "https://www.youtube.com/watch?v=gvkqT_Uoahw",
+    "duration": 137.0,
+    "view_count": 1119959,
+    "comment_file": "comments_gvkqT_Uoahw.json"
   },
   {
-    "id": "KFULlIuqcsA",
-    "title": "Mobile Development in 2025 - Native or Cross Platform?",
+    "id": "8KaJRw-rfn8",
+    "title": "What Is Full Stack? | Full Stack Developer | What Is Full Stack Web Development |Simplilearn",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=KFULlIuqcsA",
-    "duration": 981.0,
-    "view_count": 30072,
-    "comment_file": "comments_KFULlIuqcsA.json"
+    "url": "https://www.youtube.com/watch?v=8KaJRw-rfn8",
+    "duration": 425.0,
+    "view_count": 479853,
+    "comment_file": "comments_8KaJRw-rfn8.json"
   },
   {
-    "id": "_tqvevHzom0",
-    "title": "Is It Worth to Learn Native Android as a Beginner In 2025?",
+    "id": "ToufUX45LnU",
+    "title": "Beauty and Cosmetic Product Shop Mobile App UIUX Design | Figma | App Design | Mobile Application UI",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=_tqvevHzom0",
-    "duration": 860.0,
-    "view_count": 21271,
-    "comment_file": "comments__tqvevHzom0.json"
+    "url": "https://www.youtube.com/shorts/ToufUX45LnU",
+    "duration": 14.0,
+    "view_count": 415,
+    "comment_file": null
   },
   {
-    "id": "Oz0YeouiaOA",
-    "title": "Mobile App Development in 2025 - Choosing between Flutter, React Native and more",
+    "id": "gQgsx0ge5lw",
+    "title": "E-Commerce  Mobile App Figma UI Kit | UI UX Design Resources | Figma Design | ECommerce App Project",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=Oz0YeouiaOA",
-    "duration": 816.0,
-    "view_count": 9240,
-    "comment_file": "comments_Oz0YeouiaOA.json"
+    "url": "https://www.youtube.com/shorts/gQgsx0ge5lw",
+    "duration": 9.0,
+    "view_count": 4667,
+    "comment_file": null
   },
   {
-    "id": "X8BYu3dMKf0",
-    "title": "Web Developer Roadmap (2025) - Everything is Changing",
+    "id": "3mhQMenmZUM",
+    "title": "Full Stack Developers will take over. This is why.",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=X8BYu3dMKf0",
-    "duration": 1308.0,
-    "view_count": 1105920,
-    "comment_file": "comments_X8BYu3dMKf0.json"
+    "url": "https://www.youtube.com/watch?v=3mhQMenmZUM",
+    "duration": 686.0,
+    "view_count": 81088,
+    "comment_file": "comments_3mhQMenmZUM.json"
   },
   {
-    "id": "3kaGC_DrUnw",
-    "title": "The Ultimate Flutter Tutorial for Beginners - 2025 Full Course",
+    "id": "JBpLVgkoj-k",
+    "title": "Build Admin Panel for Your App in 3 minutes - Node.js Tutorial",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=3kaGC_DrUnw",
-    "duration": 19014.0,
-    "view_count": 115461,
-    "comment_file": "comments_3kaGC_DrUnw.json"
+    "url": "https://www.youtube.com/watch?v=JBpLVgkoj-k",
+    "duration": 181.0,
+    "view_count": 146,
+    "comment_file": "comments_JBpLVgkoj-k.json"
   },
   {
-    "id": "NMb4RDpbRXs",
-    "title": "Building a Mobile App in 2025: The BEST Technologies",
+    "id": "hQUjpbb75eY",
+    "title": "REST APIs Explained in 30 secs #javascript #python #web #coding #programming",
     "description": null,
-    "url": "https://www.youtube.com/watch?v=NMb4RDpbRXs",
-    "duration": 811.0,
-    "view_count": 181499,
-    "comment_file": "comments_NMb4RDpbRXs.json"
+    "url": "https://www.youtube.com/shorts/hQUjpbb75eY",
+    "duration": 32.0,
+    "view_count": 164134,
+    "comment_file": "comments_hQUjpbb75eY.json"
+  },
+  {
+    "id": "Aabh97P31FA",
+    "title": "vue is the best web js framework, change my mind",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/Aabh97P31FA",
+    "duration": 29.0,
+    "view_count": 181443,
+    "comment_file": "comments_Aabh97P31FA.json"
+  },
+  {
+    "id": "4PZeIwXx1hc",
+    "title": "Maps Are A Game Changer For JavaScript",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/4PZeIwXx1hc",
+    "duration": 60.0,
+    "view_count": 1033547,
+    "comment_file": "comments_4PZeIwXx1hc.json"
+  },
+  {
+    "id": "W6NZfCO5SIk",
+    "title": "JavaScript Course for Beginners – Your First Step to Web Development",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "duration": 2897.0,
+    "view_count": 13892030,
+    "comment_file": "comments_W6NZfCO5SIk.json"
+  },
+  {
+    "id": "EerdGm-ehJQ",
+    "title": "JavaScript Tutorial Full Course - Beginner to Pro",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=EerdGm-ehJQ",
+    "duration": 80157.0,
+    "view_count": 4518943,
+    "comment_file": "comments_EerdGm-ehJQ.json"
+  },
+  {
+    "id": "QnbspJRf7wc",
+    "title": "#shorts #programming #coding #css #html #javascript #ui #ux #design #programmers",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/QnbspJRf7wc",
+    "duration": 25.0,
+    "view_count": 9381362,
+    "comment_file": "comments_QnbspJRf7wc.json"
+  },
+  {
+    "id": "5lvXwWJU17c",
+    "title": "Build desktop apps with JavaScript easily 👩‍💻 #technology #programming #software #code #javascript",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/5lvXwWJU17c",
+    "duration": 39.0,
+    "view_count": 515741,
+    "comment_file": "comments_5lvXwWJU17c.json"
+  },
+  {
+    "id": "5-oiLKEWIEw",
+    "title": "Best Programming Languages #programming #coding #javascript",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/5-oiLKEWIEw",
+    "duration": 16.0,
+    "view_count": 7308949,
+    "comment_file": "comments_5-oiLKEWIEw.json"
+  },
+  {
+    "id": "ZPSvfABcjr8",
+    "title": "Should you use React Native/Flutter or build native? #technology #programming #software #javascript",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/ZPSvfABcjr8",
+    "duration": 42.0,
+    "view_count": 272533,
+    "comment_file": "comments_ZPSvfABcjr8.json"
+  },
+  {
+    "id": "quJzdnXuNDc",
+    "title": "How to Learn Javascript in 2023 (From ZERO)",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=quJzdnXuNDc",
+    "duration": 484.0,
+    "view_count": 351941,
+    "comment_file": "comments_quJzdnXuNDc.json"
+  },
+  {
+    "id": "DHjqpvDnNGE",
+    "title": "JavaScript in 100 Seconds",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=DHjqpvDnNGE",
+    "duration": 156.0,
+    "view_count": 972841,
+    "comment_file": "comments_DHjqpvDnNGE.json"
+  },
+  {
+    "id": "lkIFF4maKMU",
+    "title": "100+ JavaScript Concepts you Need to Know",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+    "duration": 744.0,
+    "view_count": 2465415,
+    "comment_file": "comments_lkIFF4maKMU.json"
+  },
+  {
+    "id": "lwB4_v60l-g",
+    "title": "HTML vs CSS & JavaScript || Html vs css &js website design and development #html #coding #javascript",
+    "description": null,
+    "url": "https://www.youtube.com/shorts/lwB4_v60l-g",
+    "duration": 12.0,
+    "view_count": 384550,
+    "comment_file": "comments_lwB4_v60l-g.json"
+  },
+  {
+    "id": "E3XxeE7NF30",
+    "title": "Learn JavaScript With This ONE Project!",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=E3XxeE7NF30",
+    "duration": 4226.0,
+    "view_count": 830877,
+    "comment_file": "comments_E3XxeE7NF30.json"
   }
 ]
