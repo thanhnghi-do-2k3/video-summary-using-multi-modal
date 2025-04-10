@@ -1,0 +1,22 @@
+[
+  "HI BRO I'M AN ABSOLUTE BEGGINER AT WEBDEV\nWHAT'S YOUR ADVICE TO ME\nAND THANK YOU",
+  "I have an existing PtQt application.. is there a simple way a browser could control  (ex. websockets) and display whatever is shown in my PyQt gui window? \n\nFor example, is the only way is to add a webserver to my existing script (FastAPI , Flask-SocketIO, etc).. or could I periodically screen-capture the PyQt window (PyAutoGUI, Multiple Screenshots Simple), and send it to the browser somehow? \n\nI've seen other solutions (Eel , Tornado, aiohttp, Starlette, etc), but not sure if it can stream whatever on my gui screen!",
+  "What would you do if you needed to implement some complicated backend logic? I typically develop in Python and am trying to learn more about app development here. Supabase seems to handle a ton out of the box, but if my service requires some complicated logic in the back, would I be able to integrate that logic into supabase or would I need to setup a new api specifically for that logo?",
+  "Dude this video is so helpful. What are some best practices for code and database for people building a web application that will eventually be available in a mobile app? A seamless method ideally.",
+  "Which ide can i use to tansfer codea android studio to build a web app",
+  "Flutterflow + Buildship fullstack can scale to milion users easy and then learning a bit on the API integration is GG",
+  "Any insight regarding security and server costs? I think I web app is best for a product I am building but I am seeing things about insane server costs",
+  "How about PWA or do consumers not like those?",
+  "Flutter team",
+  "Hi bro would recommend TWAs for a start with an app?",
+  "I'm fairly new to development but you mention taking payment for a web app would be much easier but wouldn't it be harder? I mean, a web app is basically a web page with some specific functionality... how do you put that behind a paywall etc?",
+  "Such a nice video on Mobile vs Web Development. 💖",
+  "I think it depends what you’re doing. I view the entire process of getting a native app as tons of extra friction, but that’s in the context of making apps for Services and businesses you would normally go to on the web. PWAs are getting way better, but not there yet and the native app will have a better feel and performance.",
+  "The average user install zero apps in a month,so chances are your app will be lost in sea of others.I rather build a pwa,best of both worlds.",
+  "What is you try to build an app that suits both B2C and B2B potentially but more like for B2C. But the things is that this kind of app will not be so usable on mobile device. Should you then develop it as Desktop app ? 😀",
+  "hard to say as it really depends on the app and what works best for the end user",
+  "thanks man",
+  "What about AR and VR apps, which should they be, mobile or web?",
+  "is this a viable option as I have an oculus but haven't thought about making a VR game for that store (i think it would be an App technically ass it would be on the meta store mainly but could access though a Web App as well so maybe its own category lmao)",
+  "Vite is a framework 😅"
+]

@@ -1,0 +1,22 @@
+[
+  "Hope it helps everyone! Thanks for watching ❤",
+  "Thank you",
+  "Thank you",
+  "Good to see you here bro. I followed your threads clone and built it",
+  "Another Buraks video , but i just done your chat app :)",
+  "so npm run build in vite produces a dist foldet that we use for production. how would we do the same for next.js? npm run build in next.js produces a .next folder. what do we target in the .next folder to be used for production when we use express as the backend?",
+  "Very underrated channel , keep up the great work",
+  "Brooooooo\nYou're here. I've done your MERN chat app and now doing MERN Twitter\nLove you",
+  "Thought of sharing, faced error while trying to 'npm run start' because of missing package. this helps: 'npm install -g win-node-env'\n\nThank you!",
+  "Thank you",
+  "Hi, can you tell me how u make your vs code looks like this? I love it and I wanna copy it 😅",
+  "Thank you so much for this. I had already gotten a basic understanding of MERN but this really helped me to put it all together. I'm excited to start building my own projects!",
+  "@36:22 there is a bug you didn't catch. When we resend a delete request with the same id it should return a 404, not 200, because we can delete it only once",
+  " @ajeethnatarajan  Bro did you faced Error: Cannot find module '/opt/render/project/src/run' while deploying on renderer.",
+  "what code completion extension are you using?",
+  "Can WE  put this project in our cv or not ?",
+  "what are the pre requirements for this tutorial?? what should you know before following this?? as a beginner??",
+  "@asaprogrammer_‬ good job, thanks for sharing 👍",
+  "which extention do you use so that when you click on a component import in another page it takes you to that component??",
+  "Thank you!"
+]

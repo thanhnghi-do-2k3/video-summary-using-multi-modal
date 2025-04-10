@@ -1,0 +1,22 @@
+[
+  "Thank you so much <3",
+  "how to solve this  (NOBRIDGE) ERROR  [AppwriteException: User (role: guests) missing scope (account)]",
+  "Got a issue with the featured card section 1:52:45 the image size is extremely large and overflows, anyone else have this problem?",
+  "add this line in tailwind.config.js content: [\"./app/**/*.{js,jsx,ts,tsx}\", \"./components/**/*.{js,jsx,ts,tsx}\"],",
+  "hey adrian your repo is private, so we can't have access to the assets and the constants to continue with you",
+  "The const browserResult = await openAuthSessionAsync   is giving me an error.. I don't know why...",
+  "hi Adrian, I hae the same warning (javascript logs will be removed from metro in react native, please use react native devtools as your default tool, type j in the terminal to open  (requires google chrome or microsoft edge) when I use xcode. is ti beecause mac users use safari? if you know and reply, I would appreciate. by the way thanks for the video",
+  "Ugly You give all your better designs to Flutter, 0 inspiration here >:(",
+  "Bro your content is good, but you need to slow down your pace and explain few thing more in details. can't catch up everything. Warm regards.",
+  "1:11:41\n2:02:52",
+  "Hey man. This is a great video but i'm just stuck because I keep getting the error \"Already Read\" and can't solve it no matter what I try to do. If you have a fix please let me know. Thanks.",
+  "Is google authentication not fully supported in appwrite? Coz while it works in development, it wont work once you build the apk.\nThis video inspired me to use it in my project but now it looks like a big mistake on my part to use appwrite's google auth",
+  "Activa el traductor de idiomas por favor!!!",
+  "I'm getting errors with the nativewind installation and configuration, the nativewind website also isn't working, so i can't even access the docs",
+  "Thanks so much. Only 1/3 in but this has been amazing thus far. Have watched a zillion other videos but this one has been by far the best to get me going on my React Native Expo app.",
+  "Where can I buy your react native course?",
+  "Text strings must be rendered within a <Text> component error still persists",
+  "Hey, someone have this problem: \"TypeError: Cannot read property 'replace' of undefined\", during Integrate Authentication chapter? I stuck there.",
+  "I'm having an issue with connecting my phone to the app via expo go. I get the error: \"Uncaught Error: java.io.IOException: Failed to download remote update.\" Has anybody else encountered this and fixed it? Thank you!",
+  "Every time I try, Tailwind doesn’t work.\nI’ve watched the video five times and created the project five times, following all the steps, but Tailwind CSS still won’t work.\n\nI even downloaded your GitHub project and tried to run it, but I got errors. 😞 I don’t know what I’m doing wrong...\n\nIn my global.css file, the @tailwind directive gives me a warning: \"Unknown at rule @tailwind\"—but I’m not sure if that’s the issue."
+]

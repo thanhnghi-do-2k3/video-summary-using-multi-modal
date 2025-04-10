@@ -2,7 +2,7 @@ import subprocess
 import cv2
 import numpy as np
 
-class OptimizedFrameProcessor:
+class FrameProcessor:
     def __init__(self, sample_interval=5, base_size=160):
         self.sample_interval = sample_interval
         self.base_size = base_size

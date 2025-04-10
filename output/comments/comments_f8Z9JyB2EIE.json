@@ -1,0 +1,22 @@
+[
+  "AUTHENTICATION next please",
+  "2:30 I face a similar problem. The setData(results) in useFetch is not actually setting the data, it does but only some random time. Also I don't think using two blocking function calls(await) in a single useEffect should be a problem! If not please explain me. Thanks!",
+  "Why would you not add the authentification?",
+  "AMAZING CONTENT ALWAYS!!",
+  "Honestly, you're a life saver. I wanted to learn react native this year and this video might have just saved my life. Thank you so much!!!",
+  "Awesome content. Cant wait for the extension with Authication",
+  "You are a great tutor and I can't wait for the authentication part to drop!",
+  "after MERN Stack web development should i learn react native? is only react native enough for building an mobile app?",
+  "1:10:16",
+  "Cool, but if you want to use admob, in the latest version of expo, it simply doesn't work, due to kotlin incompatibility, which when trying to resolve, generates thousands of other problems in the compilation (React Native Google Mobile Ads 15).",
+  "i only know javascript basics. Can I still follow the course?",
+  "Woooow, did you just call me Flutter Boy, seems you have an unfinished rivalry with flutter. let's see just how fast react native is, ill give you the benefit of the doubt",
+  "I'm about 50 mins into the tutorial - https://www.youtube.com/watch?v=f8Z9JyB2EIE&t=2011s - and I'm getting the error \"Unable to resolve \"@/constants/icons\" from \"app\\(tabs)\\_layout.tsx\".\nI have import {icons} from \"@/constants/icons\"; as in your tutorial and have copied the tsconfig.json from your github repo. \n\nEven when I use source={require(\"../../assets/icons.home.png \")} the text and icon don't line up. \n\nCan anyone be so kind as to offer some advice please?",
+  "I can't find the figma link for the design",
+  "in 51:30\nguys when you declare a reusable component like TabIcon you must start its name with a capital letter, it must be :\nconst TabIcon \nand not:\nconst tabIcon \nor it won't work",
+  "the way you play with those classNames made me feel dizzy, i couldn't keep up",
+  "Is there anyone else have trouble with `pnpm expo start`?\nIt's throw error. Even I search and google it, I did not find any and I should have use pnpm exec expo start instead.",
+  "your super master",
+  "(NOBRIDGE) ERROR  VirtualizedLists should never be nested inside plain ScrollViews with the same orientation because it can break windowing and other functionality - use another VirtualizedList-backed container instead. [Component Stack]\n\nwhat is this error",
+  "Hey if you are trying to wrap a scroll view under flatlist, it would happen. Because, Scroll View has a separate scrolling behavior and flatlist have a separate behavior. When You try to wrap them you will get this error"
+]

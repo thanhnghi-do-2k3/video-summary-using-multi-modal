@@ -4,7 +4,7 @@ import torch
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from utils import device
 
-class ParallelCaptioner:
+class Captioner:
     def __init__(self, max_batch_size=8, max_workers=4):
         self.processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
         self.model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base").to(device).eval()

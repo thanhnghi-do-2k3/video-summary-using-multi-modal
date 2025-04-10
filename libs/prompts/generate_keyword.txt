@@ -1,0 +1,17 @@
+Hãy tạo 5 từ khóa tìm kiếm YouTube dựa trên các từ khóa gốc được cung cấp.
+
+Yêu cầu:
+- Từ khóa phải liên quan chặt chẽ đến chủ đề ban đầu, nhưng không được lặp lại nguyên văn.
+- Hướng đến việc gợi ý các nội dung liên quan mà người dùng có thể muốn xem tiếp theo.
+- Từ khóa nên có độ dài khoảng 3 từ, không quá ngắn hoặc quá dài.
+- Tránh từ khóa quá cụ thể; ưu tiên sự khái quát để mở rộng phạm vi tìm kiếm.
+- Các từ khóa cần đa dạng nhưng vẫn thống nhất về mặt chủ đề và ngữ cảnh.
+
+Mục tiêu:
+- Tăng khả năng gợi mở và đề xuất đúng video tiếp theo mà người dùng quan tâm.
+- Từ khóa cần phù hợp với hành vi tìm kiếm tự nhiên trên YouTube.
+
+Đầu vào gốc: $keywords
+
+Định dạng đầu ra: Một mảng JSON gồm 5 chuỗi, ví dụ:
+["keyword 1", "keyword 2", "keyword 3", "keyword 4", "keyword 5"]

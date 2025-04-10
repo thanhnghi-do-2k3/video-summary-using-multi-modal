@@ -1,0 +1,13 @@
+VIDEO ANALYSIS REQUEST:
+Title: $title
+Duration: $duration s
+Sampled Frames ($frame_count):
+$frame_samples
+Partial Transcript (First $audio_duration s):
+$transcript_sample
+Video Description: $video_description
+
+REQUIREMENTS:
+- Generate 15-20 keywords
+- Output as JSON array
+- No explanations

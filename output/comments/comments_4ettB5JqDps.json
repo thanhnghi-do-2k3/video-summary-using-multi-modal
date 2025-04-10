@@ -1,0 +1,22 @@
+[
+  "What is your go-to React UI component library?",
+  "It's all shadcn now",
+  "Hero UI previously Next UI it is awesome and it has a lot of customizition, animations, design system and well documented",
+  "Either Shacn ui (if next) or heroui (if plain react)",
+  "Origin UI  it is shadcn ui based lib collection",
+  "Was not aware that most of my viewers are using shadcn😅",
+  "Shadcn all the way!!",
+  "Ant design for Dashboard",
+  "Shadcn ui for simpler projects. MUI for complex and consistent ui",
+  "daisy ui",
+  "ZagJS",
+  "Great video. If you need to migrate from a medium enterprise using Prime React. Do you think is a good option moved to MUI? or just growth using Prime React. what factors do you think I need to consider? I already checked the component I use vs the component MUI have but I want to analyze different approaches. Thanks in advanced",
+  "If you're code is working with prime react, leave it alone because it's unnessary to migrate to mui. Don't make the migration to mui overhead  for yourself.",
+  "Can not wait your Next.js Series !",
+  "I'm currently working on it",
+  "after i use shadcn,mantine,nextui(hero ui),mui\n- MUI very good component but styling component is completely frustated (my skill issue i know)\n- next ui (hero ui) like shadcn but pretty by default. and styling still easy but not easy as shadcn.\n- mantine. styling component is almost dificult (and dificult to consistent)but okay. and i love mantine hook. life is good with mantine XD\n- shadcn. i just love it. the easiest to customize. but i  have many issue with shadcn cmponent like bluring dropdown, etc.",
+  "Thanks alot for sharing your amazing experience with us🙏. For prototyping and fast develop, mui is the choice for me. But if I have enough time for developing and customizing, shadcn as you mentioned is my first choice",
+  "Are Bhai Hindi me nahi hai kya",
+  "I love heroUI for its sleek micro interactions and styling.\nBut usually use shadcn because have to match with the provided design.",
+  "Makes sense. You're always gonna have to choose the best fit for your project!"
+]
