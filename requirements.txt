@@ -22,6 +22,6 @@ tokenizers==0.19.1
 # Video / Audio
 yt-dlp==2024.3.10
 pydub==0.25.1
-faster-whisper==0.10.0
+faster-whisper==1.1.1  
 google-generativeai==0.3.2
 youtube-transcript-api==0.6.1
