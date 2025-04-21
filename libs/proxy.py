@@ -58,4 +58,4 @@ def pick_working_proxy(max_test=1000):  # Tăng max_test lên 100
     raise RuntimeError(f"Không tìm được proxy sống trong {max_test} proxy!")
 
 # Lấy proxy sống đầu tiên
-proxy = pick_working_proxy(max_test=100)  # Thử tối đa 100 proxy
+# proxy = pick_working_proxy(max_test=100)  # Thử tối đa 100 proxy
