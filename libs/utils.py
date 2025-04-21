@@ -1,6 +1,6 @@
 import torch
 import yt_dlp
-from proxy import proxy
+# from proxy import proxy
 
 def get_device():
     if torch.backends.mps.is_available():
