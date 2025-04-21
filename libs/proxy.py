@@ -2,12 +2,8 @@ import random, requests, itertools, sys
 from concurrent.futures import ThreadPoolExecutor
 
 # ---------- 1. Thu proxy free -------------
-LIST_URLS = [
-    "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",  # HTTP proxy
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",  # SOCKS5 proxy
-    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/socks5.txt",  # SOCKS5 proxy khác
-    "https://www.proxy-list.download/api/v1/get?type=socks5",  # SOCKS5 từ nguồn khác
-    "https://raw.githubusercontent.com/roosterkid/openproxy-list/master/SOCKS5.txt",  # Thêm 1 nguồn proxy nữa
+LIST_URLS = [ 
+  "https://proxy.webshare.io/api/v2/proxy/list/download/wkpcrujbjpkxdsghocmlosuajppwygygusnwgqeg/-/any/username/direct/-/"
 ]
 
 def fetch_proxies():
