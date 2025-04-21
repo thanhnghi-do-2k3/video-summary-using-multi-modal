@@ -3,7 +3,7 @@ librosa==0.10.0
 numpy==1.24.0
 opencv-python==4.8.0.76
 pillow==10.0.0
-safetensors==0.4.0
+safetensors==0.4.3
 soundfile==0.12.1
 
 # PyTorch stack (CUDA 12.1 – hợp driver 12.5 hiện tại trên Kaggle)
