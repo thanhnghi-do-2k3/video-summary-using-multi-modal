@@ -11,7 +11,7 @@ device = get_device()
 torch.backends.cudnn.benchmark = True if device == "cuda" else False
 
 def get_video_info(video_url):
-    ydl_opts = {'quiet': True, 'skip_download': True, 'format': 'best', 'proxy': proxy} 
+    ydl_opts = {'quiet': True, 'skip_download': True, 'format': 'best'} 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(video_url, download=False)
         return {
