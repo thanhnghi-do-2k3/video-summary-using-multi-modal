@@ -3,7 +3,7 @@ import yt_dlp
 from faster_whisper import WhisperModel
 from pydub import AudioSegment
 from utils import device
-
+from proxy import proxy
 
 class TranscriptProcessor:
     def __init__(self, model_size="medium", compute_type="float32", max_duration=600):
@@ -23,6 +23,7 @@ class TranscriptProcessor:
     def _download_audio(self, youtube_url, output_file="temp_audio_full.m4a"):
         print(f"[INFO] Downloading audio stream from YouTube...")
         ydl_opts = {
+            'proxy': proxy,
             'format': 'bestaudio[ext=m4a]/bestaudio/best',
             'outtmpl': output_file,
             'quiet': True
