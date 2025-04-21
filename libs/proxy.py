@@ -2,8 +2,15 @@ import random, requests, itertools, sys
 from concurrent.futures import ThreadPoolExecutor
 
 # ---------- 1. Thu proxy free -------------
-LIST_URLS = [ 
-  "https://proxy.webshare.io/api/v2/proxy/list/download/wkpcrujbjpkxdsghocmlosuajppwygygusnwgqeg/-/any/username/direct/-/"
+LIST_URLS = [
+    "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",  # Source for SOCKS5 proxies
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",  # Source for SOCKS5 proxies
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/socks5.txt",  # Source for SOCKS5 proxies
+    "https://www.proxy-list.download/api/v1/get?type=https",  # Source for HTTPS proxies
+    "https://www.proxy-list.download/api/v1/get?type=http",  # Source for HTTP proxies
+    "https://www.socks-proxy.net",  # Another source for SOCKS5 proxies
+    "https://www.proxy-list.download/api/v1/get?type=socks5",  # Source for SOCKS5 proxies
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/master/SOCKS5.txt"  # Source for SOCKS5 proxies
 ]
 
 def fetch_proxies():
@@ -32,7 +39,7 @@ def is_proxy_alive(proxy: str) -> bool:
     except Exception:
         return False
 
-def pick_working_proxy(max_test=100):  # Tăng max_test lên 100
+def pick_working_proxy(max_test=1000):  # Tăng max_test lên 100
     proxies = fetch_proxies()
     random.shuffle(proxies)
     
