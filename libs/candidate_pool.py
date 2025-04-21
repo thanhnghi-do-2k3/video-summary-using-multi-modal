@@ -17,7 +17,7 @@ class CandidateVideoPoolGenerator:
             'sleep_interval': 2,    
             'max_sleep_interval': 2
         }
-        self.executor = ThreadPoolExecutor(max_workers=200)
+        self.executor = ThreadPoolExecutor(max_workers=100)
         self.output_dir = output_dir
         self.comments_dir = os.path.join(self.output_dir, "comments")
         self.max_comment = 20
@@ -60,6 +60,9 @@ class CandidateVideoPoolGenerator:
             'url': entry.get('url', ''),
             'duration': entry.get('duration', 0),
             'view_count': entry.get('view_count', 0),
+            'description': entry.get('description', ''),
+            'tag': entry.get('tags', []),
+            'category': entry.get('categories', []),
             'comment_file': None  
         }
 
@@ -84,7 +87,6 @@ class CandidateVideoPoolGenerator:
         with yt_dlp.YoutubeDL(self.ydl_opts) as ydl:
             for idx, term in enumerate(search_terms, 1):
                 try:
-                    print(f"\n📌 Từ khóa {idx}/{len(search_terms)}: '{term}'")
                     result = ydl.extract_info(
                         f"ytsearch{self.ydl_opts['max_downloads']}:{term}",
                         download=False
@@ -123,7 +125,6 @@ class CandidateVideoPoolGenerator:
         if os.path.exists(self.output_dir):
             shutil.rmtree(self.output_dir)
 
-        # ✅ Tạo lại output + comments folder sau khi xoá
         os.makedirs(self.output_dir, exist_ok=True)
         os.makedirs(self.comments_dir, exist_ok=True)
 
@@ -144,7 +145,6 @@ class CandidateVideoPoolGenerator:
                         download=False
                     )
                     entries = result.get('entries', [])
-                    print(f"🔍 Tìm thấy {len(entries)} video")
 
                     for entry in entries:
                         if entry['url'] in seen_urls:
@@ -159,8 +159,6 @@ class CandidateVideoPoolGenerator:
                     print(f"⚠️ Lỗi tìm kiếm '{term}': {str(e)}")
                     continue
 
-        print(f"\n🚀 Đang xử lý {len(extract_futures)} video song song...")
-
         for future in as_completed(extract_futures):
             try:
                 video_info = future.result()
@@ -171,7 +169,6 @@ class CandidateVideoPoolGenerator:
 
         self.executor.shutdown(wait=True)
 
-        # Lưu toàn bộ video info vào file JSON
         video_file = os.path.join(self.output_dir, "video_pool.json")
         with open(video_file, "w", encoding="utf-8") as f:
             json.dump(video_pool, f, ensure_ascii=False, indent=2)

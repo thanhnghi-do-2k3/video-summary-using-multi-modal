@@ -8,6 +8,7 @@ $transcript_sample
 Video Description: $video_description
 
 REQUIREMENTS:
-- Generate 15-20 keywords
+- Generate 15-30 keywords
+- The keyword should cover only 1 aspect of the video but in detail
 - Output as JSON array
 - No explanations

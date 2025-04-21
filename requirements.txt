@@ -10,3 +10,6 @@ torchaudio>=2.1.0
 transformers>=4.38.0
 yt-dlp>=2024.3.10
 google-genai
+youtube-transcript-api
+pydub
+faster_whisper

@@ -10,6 +10,7 @@ Requirements:
 Goal:
 - Increase the likelihood of surfacing relevant and engaging follow-up videos.
 - Keywords should align with natural user search behavior on YouTube.
+- The keyword should be the same language as the title
 
 Input seed keywords: $keywords
 

@@ -3,11 +3,12 @@ import cv2
 import numpy as np
 
 class FrameProcessor:
-    def __init__(self, sample_interval=5, base_size=160):
+    def __init__(self, sample_interval= 20, base_size=100, num_frames=30):
         self.sample_interval = sample_interval
         self.base_size = base_size
+        self.num_frames = num_frames
     
-    def get_frames(self, direct_url, max_duration=300):
+    def get_frames(self, direct_url, max_duration=1200):
         command = [
             'ffmpeg',
             '-hwaccel', 'auto',
