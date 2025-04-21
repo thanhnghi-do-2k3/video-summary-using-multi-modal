@@ -13,11 +13,11 @@ class CandidateVideoPoolGenerator:
             'quiet': True,
             'extract_flat': True,
             'max_downloads': max_results_per_term,
-            'sleep_interval_requests': 2,  
-            'sleep_interval': 2,    
-            'max_sleep_interval': 2
+            'sleep_interval_requests': 3,  
+            'sleep_interval': 3,    
+            'max_sleep_interval': 4
         }
-        self.executor = ThreadPoolExecutor(max_workers=100)
+        self.executor = ThreadPoolExecutor(max_workers=20)
         self.output_dir = output_dir
         self.comments_dir = os.path.join(self.output_dir, "comments")
         self.max_comment = 20
