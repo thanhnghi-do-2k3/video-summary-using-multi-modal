@@ -2,6 +2,7 @@ import random, requests, itertools, sys
 
 # ---------- 1. Thu proxy free -------------
 LIST_URLS = [
+    "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
     "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/socks5.txt",
 ]
