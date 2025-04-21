@@ -1,20 +1,16 @@
 from concurrent.futures import ThreadPoolExecutor
 import cv2
 import torch
-from transformers import BlipProcessor, BlipForConditionalGeneration, AutoTokenizer
+from transformers import Blip2Processor, Blip2ForConditionalGeneration  # Corrected imports
 from utils import device
 
 class Captioner:
     def __init__(self, max_batch_size=8, max_workers=2):
-        # Load tokenizer explicitly for BLIP-2 OPT
-        opt_tokenizer = AutoTokenizer.from_pretrained("facebook/opt-2.7b")
-        self.processor = BlipProcessor.from_pretrained(
-            "Salesforce/blip2-opt-2.7b",
-            tokenizer=opt_tokenizer,
-            use_fast=True  # Enable fast image processing
-        )
-        self.model = BlipForConditionalGeneration.from_pretrained(
-            "Salesforce/blip2-opt-2.7b"
+        # Initialize BLIP-2 processor and model
+        self.processor = Blip2Processor.from_pretrained("Salesforce/blip2-opt-2.7b")
+        self.model = Blip2ForConditionalGeneration.from_pretrained(
+            "Salesforce/blip2-opt-2.7b", 
+            torch_dtype=torch.float16  # Use FP16 for faster inference
         ).to(device)
         self.max_batch_size = max_batch_size
         self.max_workers = max_workers
@@ -26,6 +22,7 @@ class Captioner:
             return [caption for future in futures for caption in future.result()]
 
     def process_batch(self, batch):
+        # Convert BGR to RGB and process frames
         inputs = self.processor(
             images=[cv2.cvtColor(frame, cv2.COLOR_BGR2RGB) for frame in batch],
             return_tensors="pt", 
