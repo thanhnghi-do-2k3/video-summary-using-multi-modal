@@ -17,7 +17,7 @@ torchao==0.9
 
 # Hugging Face
 transformers==4.43.0
-tokenizers==0.15.0
+tokenizers==0.19.1  
 
 # Video / Audio
 yt-dlp==2024.3.10
