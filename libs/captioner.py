@@ -6,8 +6,9 @@ from utils import device
 
 class Captioner:
     def __init__(self, max_batch_size=8, max_workers=2):
-        self.processor = BlipProcessor.from_pretrained("Salesforce/blip2-opt-2.7b")  
-        self.model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip2-opt-2.7b").to(device)
+        # Use the appropriate model for BLIP-2 captioning task
+        self.processor = BlipProcessor.from_pretrained("Salesforce/blip2-image-captioning-base")  
+        self.model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip2-image-captioning-base").to(device)
         self.max_batch_size = max_batch_size
         self.max_workers = max_workers
 
@@ -25,6 +26,7 @@ class Captioner:
         ).to(device)
         
         with torch.inference_mode():
+            # Generating captions for the batch of images
             outputs = self.model.generate(**inputs, max_length=200, num_beams=3)
             
         return [self.processor.decode(gen, skip_special_tokens=True) for gen in outputs]
