@@ -23,7 +23,7 @@ class TranscriptProcessor:
     def _download_audio(self, youtube_url, output_file="temp_audio_full.m4a"):
         print(f"[INFO] Downloading audio stream from YouTube...")
         ydl_opts = {
-            'proxy': proxy,
+            # 'proxy': proxy,
             'format': 'bestaudio[ext=m4a]/bestaudio/best',
             'outtmpl': output_file,
             'quiet': True
