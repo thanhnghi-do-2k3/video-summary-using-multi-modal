@@ -2,8 +2,8 @@ import torch
 import yt_dlp
 
 def get_device():
-    # if torch.backends.mps.is_available():
-    #     return "mps"
+    if torch.backends.mps.is_available():
+        return "mps"
     return "cuda" if torch.cuda.is_available() else "cpu"
 
 device = get_device()
