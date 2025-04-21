@@ -7,9 +7,9 @@ from utils import device
 class Captioner:
     def __init__(self, max_batch_size=8, max_workers=2):
         # Initialize BLIP-2 processor and model
-        self.processor = Blip2Processor.from_pretrained("Salesforce/blip2-opt-2.7b")
+        self.processor = Blip2Processor.from_pretrained("Salesforce/blip2-flan-t5xl")
         self.model = Blip2ForConditionalGeneration.from_pretrained(
-            "Salesforce/blip2-opt-2.7b", 
+            "Salesforce/blip2-flan-t5xl", 
             torch_dtype=torch.float16  # Use FP16 for faster inference
         ).to(device)
         self.max_batch_size = max_batch_size
