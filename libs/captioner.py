@@ -1,32 +1,31 @@
 from concurrent.futures import ThreadPoolExecutor
-import os, cv2, torch
+import cv2, torch
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
 from utils import device
 
 class Captioner:
     def __init__(self, max_batch_size=8, max_workers=2):
-        repo_id = "Salesforce/blip2-flan-t5xl"
+        repo_id = "Salesforce/blip2-flan-t5-xl"   # ✅ tên chính xác
 
-        # (1) Khai báo token=None => tải ẩn danh
         self.processor = Blip2Processor.from_pretrained(
             repo_id,
-            token=None,                 # ⬅️ không cần login
+            token=None,                 # tải ẩn danh
             trust_remote_code=False,
-            # local_files_only=True,     # ⬅️ bỏ comment nếu đã cache
         )
 
         self.model = Blip2ForConditionalGeneration.from_pretrained(
             repo_id,
-            token=None,                 # ⬅️ tương tự
+            token=None,
             trust_remote_code=False,
             torch_dtype=torch.float16,
         ).to(device)
 
         self.max_batch_size = max_batch_size
-        self.max_workers = max_workers
+        self.max_workers   = max_workers
 
     def generate_captions(self, frames):
-        batches = [frames[i:i+self.max_batch_size] for i in range(0, len(frames), self.max_batch_size)]
+        batches = [frames[i:i+self.max_batch_size]
+                   for i in range(0, len(frames), self.max_batch_size)]
         with ThreadPoolExecutor(max_workers=self.max_workers) as ex:
             futures = [ex.submit(self.process_batch, b) for b in batches]
             return [cap for fu in futures for cap in fu.result()]
